@@ -1,0 +1,10 @@
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\lab7\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\lab7\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\lab7\lab7\obj\Debug\lab7.pdb
